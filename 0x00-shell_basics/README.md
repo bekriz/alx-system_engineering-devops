@@ -17,3 +17,4 @@ file type teller
 file type teller
 file type teller
 link
+# 14 copy script
