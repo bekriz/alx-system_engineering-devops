@@ -9,3 +9,5 @@ change to home dir
 move file
 #8 delete file
 delete script
+delet dircotry
+delet dir script
