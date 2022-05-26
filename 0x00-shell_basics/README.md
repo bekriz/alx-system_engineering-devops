@@ -5,3 +5,4 @@ ls displays directory content
 long listing script 
 -a display hidden files
 5 including numbers
+change to home dir
