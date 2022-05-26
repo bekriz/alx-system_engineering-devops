@@ -8,3 +8,4 @@ long listing script
 change to home dir
 move file
 #8 delete file
+delete script
