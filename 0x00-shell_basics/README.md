@@ -1,1 +1,1 @@
-whoam i displays the the current user
+pdw diplays the current working direcoty
