@@ -12,3 +12,4 @@ delete script
 delet dircotry
 delet dir script
 return to previous dir script
+ all content list even in partt directory script
