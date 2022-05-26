@@ -19,3 +19,6 @@ file type teller
 link
 # 14 copy script
 list dir content
+dispay user
+dispay user
+dispay user
