@@ -3,3 +3,4 @@ pdw diplays the current working direcoty
 ls displays directory content
 ~ brigts ot hom directory
 long listing script 
+-a display hidden files
