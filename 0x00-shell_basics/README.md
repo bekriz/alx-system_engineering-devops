@@ -7,3 +7,4 @@ long listing script
 5 including numbers
 change to home dir
 move file
+#8 delete file
