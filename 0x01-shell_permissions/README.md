@@ -11,3 +11,4 @@ file access mode changer script
 multipe permission add script
 7-make everyone to excute the file hello
 7-make everyone to excute the file hello
+James_bond
