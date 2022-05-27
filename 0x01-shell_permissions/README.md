@@ -8,3 +8,4 @@ change file owner
 change file owner script
 empty file creator script
 file access mode changer script
+multipe permission add script
