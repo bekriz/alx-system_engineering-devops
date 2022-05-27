@@ -13,3 +13,4 @@ multipe permission add script
 7-make everyone to excute the file hello
 James_bond
 john_Doe
+mirroing
