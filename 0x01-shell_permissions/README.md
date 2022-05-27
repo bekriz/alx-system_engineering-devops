@@ -2,3 +2,4 @@
 1.displays current user
 diplay user group
 diplay user group
+change file owner
