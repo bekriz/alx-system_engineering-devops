@@ -22,3 +22,4 @@ list dir content
 dispay user
 dispay user
 dispay user
+curretn user display script
