@@ -14,3 +14,4 @@ multipe permission add script
 James_bond
 john_Doe
 mirroing
+directory permission
