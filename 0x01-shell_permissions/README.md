@@ -16,3 +16,4 @@ john_Doe
 mirroing
 directory permission
 new dir with managed permission
+change group
