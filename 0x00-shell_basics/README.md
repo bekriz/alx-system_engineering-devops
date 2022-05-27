@@ -25,3 +25,4 @@ dispay user
 curretn user display script
 curretn user display script
 dispay group
+change user owner script
