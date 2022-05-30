@@ -15,3 +15,4 @@ display /etc/passwd and /etc/hosts
 9.duplicate script
 third line of a file printing script
 No more .js file
+11.directory counter script
