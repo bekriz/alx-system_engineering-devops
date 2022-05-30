@@ -17,3 +17,4 @@ third line of a file printing script
 No more .js file
 11.directory counter script
 12. newest file display script
+13.display uniqe file intersms of size, time
