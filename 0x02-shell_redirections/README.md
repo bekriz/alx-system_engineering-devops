@@ -25,3 +25,4 @@ hid a pattern from a file script
 18.display letter only from a file script
 19.Replace
 19.Replace
+20 remove a character
