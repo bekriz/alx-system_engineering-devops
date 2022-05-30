@@ -13,3 +13,4 @@ display /etc/passwd and /etc/hosts
 7 create a file Best school
 8.redirect the result of ls -la command to a file script
 9.duplicate script
+third line of a file printing script
