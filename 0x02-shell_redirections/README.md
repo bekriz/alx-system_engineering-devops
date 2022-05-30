@@ -12,3 +12,4 @@ display /etc/passwd and /etc/hosts
 6. this script displays the third line of a file content
 7 create a file Best school
 8.redirect the result of ls -la command to a file script
+9.duplicate script
