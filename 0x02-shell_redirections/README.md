@@ -22,3 +22,4 @@ No more .js file
 15.count a pattern bin from passwd file
 13.dispaly patter root and the netxt 3 lines from a file script
 hid a pattern from a file script
+18.display letter only from a file script
