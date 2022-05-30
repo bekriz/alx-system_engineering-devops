@@ -14,3 +14,4 @@ display /etc/passwd and /etc/hosts
 8.redirect the result of ls -la command to a file script
 9.duplicate script
 third line of a file printing script
+No more .js file
