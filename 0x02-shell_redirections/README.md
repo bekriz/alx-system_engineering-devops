@@ -26,3 +26,4 @@ hid a pattern from a file script
 19.Replace
 19.Replace
 20 remove a character
+21.display the mirror
