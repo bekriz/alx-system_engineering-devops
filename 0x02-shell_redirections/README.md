@@ -19,3 +19,4 @@ No more .js file
 12. newest file display script
 13.display uniqe file intersms of size, time
 14.display the pattern root from a file called passwd script
+15.count a pattern bin from passwd file
