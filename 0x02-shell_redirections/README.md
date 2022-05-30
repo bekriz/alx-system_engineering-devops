@@ -5,3 +5,4 @@ script printing confused smiley
 display /etc/passwd and /etc/hosts 
 4.lat ten lines of a text file script
 5. first ten  lines of a text file script
+5. first ten  lines of a text file script
