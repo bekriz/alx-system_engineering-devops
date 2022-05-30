@@ -6,3 +6,6 @@ display /etc/passwd and /etc/hosts
 4.lat ten lines of a text file script
 5. first ten  lines of a text file script
 5. first ten  lines of a text file script
+5. first ten  lines of a text file script
+6. this script displays the third line of a file content
+6. this script displays the third line of a file content
