@@ -10,3 +10,4 @@ local variable
 True knowlede
 True knowlede
 True knowlede
+9.Divide and rule
