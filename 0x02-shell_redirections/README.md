@@ -28,3 +28,4 @@ hid a pattern from a file script
 20 remove a character
 21.display the mirror
 22.users and home dirs sorted by user
+18.Letters only
