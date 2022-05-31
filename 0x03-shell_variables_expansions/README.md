@@ -12,3 +12,4 @@ True knowlede
 10.Power function
 11.Binary number to Decimall
 combo
+12.combination
