@@ -9,3 +9,4 @@ local variable
 7.global variables
 True knowlede
 True knowlede
+True knowlede
