@@ -13,3 +13,4 @@ True knowlede
 11.Binary number to Decimall
 combo
 12.combination
+12.Combinations
