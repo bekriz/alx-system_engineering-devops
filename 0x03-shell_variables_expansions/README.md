@@ -6,3 +6,4 @@ display currnet user script using variable
 4.print environment variable
 local variable
 6.local variable
+7.global variables
