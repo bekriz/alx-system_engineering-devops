@@ -12,3 +12,4 @@ True knowlede
 True knowlede
 9.Divide and rule
 10.Power function
+10.Power function
