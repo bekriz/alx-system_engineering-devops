@@ -11,3 +11,4 @@ True knowlede
 9.Divide and rule
 10.Power function
 11.Binary number to Decimall
+combo
