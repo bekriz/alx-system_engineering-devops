@@ -5,3 +5,4 @@ display currnet user script using variable
 3.paths
 4.print environment variable
 local variable
+6.local variable
