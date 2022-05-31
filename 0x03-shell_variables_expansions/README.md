@@ -15,3 +15,4 @@ combo
 12.combination
 12.Combinations
 13.Floating number
+14.Decimal to Hex
