@@ -7,3 +7,4 @@ display currnet user script using variable
 local variable
 6.local variable
 7.global variables
+True knowlede
